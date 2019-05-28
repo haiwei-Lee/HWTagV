@@ -1,0 +1,20 @@
+PODS:
+  - UICollectionViewLeftAlignedLayout (1.0.2)
+  - UICollectionViewRightAlignedLayout (0.0.3)
+
+DEPENDENCIES:
+  - UICollectionViewLeftAlignedLayout
+  - UICollectionViewRightAlignedLayout
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - UICollectionViewLeftAlignedLayout
+    - UICollectionViewRightAlignedLayout
+
+SPEC CHECKSUMS:
+  UICollectionViewLeftAlignedLayout: 830bf6fa5bab9f9b464f62e3384f9d2e00b3c0f6
+  UICollectionViewRightAlignedLayout: 823eef8c567eba4a44c21bc2ffcb0d0d5f361e2d
+
+PODFILE CHECKSUM: 2334bd849f7038aeca0aabb8031e970c3f61f92e
+
+COCOAPODS: 1.5.3
